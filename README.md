@@ -9,7 +9,7 @@
 Custom PowerBI Visual to filter quantitative data using a continuous slider. 
 
 ## Contributer(s)
-- **Inital Developer:** [Andie McPartland](mailto:andie.mcpartland@triskele.health)
+- **Developer:** [Andie McPartland](mailto:andie.mcpartland@triskele.health)
 - **Tester:** [Ryan Fleming](mailto:ryan.fleming@triskele.health)
 
 ## Documentation and Resources
